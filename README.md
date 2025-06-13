@@ -108,7 +108,7 @@ calendar/
 
 ## 🌐 Live Demo
 
-The application is deployed and can be accessed at: [Your Deployment URL]](https://calendar-task-manager-ten.vercel.app/)
+The application is deployed and can be accessed at: https://calendar-task-manager-ten.vercel.app
 
 ## 📫 Contact
 
