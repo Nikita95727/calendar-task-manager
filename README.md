@@ -108,10 +108,10 @@ calendar/
 
 ## 🌐 Live Demo
 
-The application is deployed and can be accessed at: [Your Deployment URL]
+The application is deployed and can be accessed at: [Your Deployment URL]](https://calendar-task-manager-ten.vercel.app/)
 
 ## 📫 Contact
 
 Your Name - worknikitatretynko95@gmail.com
 
-Project Link: 
+Project Link: https://github.com/Nikita95727/calendar-task-manager
